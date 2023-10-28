@@ -1,0 +1,2 @@
+﻿# How you can use/integrate this generic repository within your project?
+##### This genericRepository written generic and project independent as lib projects. To integrate it in your project simply add generic repository lib 3 projects as existing projects in your solution and adjust references as my projects have, and BOOM!!!, you're good to go with it.
